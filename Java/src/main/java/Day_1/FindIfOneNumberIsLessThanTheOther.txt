@@ -1,0 +1,21 @@
+Problem Description
+You need to create a static method named isLessThan(),
+which will take two integer values as input and return true if the
+first integer is less than the second. Else, it returns false.
+
+
+Hint: Note that the method is completely missing.
+It needs to be created by you. Refer to the previous problems,
+if needed, to understand how to do this.
+
+Hint: The return type has to be a boolean.
+
+
+Sample Input 1
+1, 9
+
+Sample Output 1
+true
+
+Explanation 1
+1 is less than 9, so true

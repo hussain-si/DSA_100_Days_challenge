@@ -1,5 +1,6 @@
 Problem Description
-You are given three numbers as input. If EITHER the first number is equal to the second OR the second number is equal to the third, return true. Else, return false.
+You are given three numbers as input. If EITHER the first number is equal to the second OR
+the second number is equal to the third, return true. Else, return false.
 
 
 Hint: This is a combination of comparison operator and logical operator.
