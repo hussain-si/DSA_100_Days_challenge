@@ -1,0 +1,15 @@
+Problem Description
+You are given three numbers as input. Return true only if the first number is greater than the second number AND the second number is greater than the third number. Else, return false.
+
+
+Hint: This is a combination of comparison operator and logical operator.
+
+
+Sample Input 1
+10, 9, 7
+
+Sample Output 1
+true
+
+Explanation 1
+True, since 10 is greater than 9 and 9 is greater than 7.

@@ -1,0 +1,15 @@
+Problem Description
+You are given three numbers as input. If EITHER the first number is equal to the second OR the second number is equal to the third, return true. Else, return false.
+
+
+Hint: This is a combination of comparison operator and logical operator.
+
+
+Sample Input 1
+10, 99, 99
+
+Sample Output 1
+true
+
+Explanation 1
+The second number (99) and third number (99) are equal, hence true.
