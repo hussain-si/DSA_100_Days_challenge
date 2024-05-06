@@ -1,0 +1,33 @@
+Problem Description
+Write a function that can return the smallest value of an array or the index of that
+ value (0-based). The function's 2nd parameter will tell whether it should return the value
+  or the index.
+
+Assume the first parameter will always be an array filled with at least 1 number and no duplicates. Assume the second parameter will be a string holding one of two values: either 'value' or 'index'.
+
+(Source: Codewars)
+
+
+.
+
+Hint: Iterate through the elements using a loop. Keep track of the smallest number (and its index) using variables, as we iterate. Compare the current element in the loop to the smallest found so far and update the smallest if required.
+
+
+Sample Input 1
+[4, 2, 3, 1, 5] "value"
+
+Sample Output 1
+1
+
+Explanation 1
+We can see that 1 is the smallest number in the array and since value is asked, output = 1.
+
+
+Sample Input 2
+[4, 2, 3, 1, 5] "index"
+
+Sample Output 2
+3
+
+Explanation 1
+We see that 1 is the smallest element in the array and its index is 3 (0 based indexing). Since index is asked, the output = 3.
