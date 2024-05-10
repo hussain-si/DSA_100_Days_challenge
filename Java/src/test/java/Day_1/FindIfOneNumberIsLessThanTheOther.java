@@ -2,8 +2,8 @@ package Day_1;
 
 public class FindIfOneNumberIsLessThanTheOther {
     public static boolean isLessThan(int a,int b){
-       return false;
 
+        return a<b;
     }
 
     public static void main(String args[]) {
