@@ -2,10 +2,9 @@ package Day_1;
 
 public class CalculateIfATripCanBeCompleted {
     public static boolean roadTrip(double p, double x, double y) {
-if(x*p>y) {
-    return true;
-}
-else return false;
+
+    return x*p>y ;
+
     }
 
     public static void main(String[] args) {
