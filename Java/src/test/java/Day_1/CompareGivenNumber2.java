@@ -3,9 +3,9 @@ package Day_1;
 public class CompareGivenNumber2 {
 
     public static boolean isDescending(int a, int b, int c) {
-if(a>b && b>c){
-    return true;
-}else return false;
+
+    return a>b && b>c;
+
     }
 
     public static void main(String args[]) {
