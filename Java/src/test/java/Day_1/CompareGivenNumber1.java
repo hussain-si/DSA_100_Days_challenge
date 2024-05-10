@@ -2,9 +2,10 @@ package Day_1;
 
 public class CompareGivenNumber1 {
     public static boolean compareNumbers(int a, int b, int c) {
-if(a==b || b==c){
-    return true;
-}else return false;
+
+        //start from here
+
+        return false;
     }
 
     public static void main(String args[]) {
