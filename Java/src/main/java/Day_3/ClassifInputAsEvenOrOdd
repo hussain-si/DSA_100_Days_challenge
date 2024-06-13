@@ -1,0 +1,25 @@
+Problem Description
+Implement a method that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
+
+Hint:
+
+Think about how you can check if a number is even.
+
+Use conditionals to implement it.
+
+
+Sample Input 1
+> 10
+
+Sample Output 1
+
+Even
+
+Sample Input 2
+
+> 1
+
+Sample Output 2
+
+Odd

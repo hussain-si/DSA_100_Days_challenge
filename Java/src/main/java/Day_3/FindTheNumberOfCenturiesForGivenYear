@@ -1,0 +1,20 @@
+Problem Description
+You are given a year as input, you have to return the number of centuries for the given year.
+
+A century is 100 years.
+
+
+Hint: Write down the conditions involved, explore conditionals to implement it.
+
+
+Sample Input 1
+1705
+
+Sample Output 1
+18
+
+Explanation 1
+100 occurs 17 times in 1705 and an extra 5 years is counted as a part of the new century.
+
+So 17 + 1 = 18.
+
